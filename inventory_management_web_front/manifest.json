@@ -1,0 +1,14 @@
+{
+    "manifest_version": "1",
+    "name": "在庫管理システム",
+    "short_name": "在庫管理システム",
+    "version": "0.1.0",
+    "description": "在庫管理システム",
+    "icons": [
+      {
+        "src": "images/icon-128x128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      }
+    ]
+  }
